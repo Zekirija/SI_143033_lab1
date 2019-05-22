@@ -1,0 +1,5 @@
+commit e45dde9e3d42bc300561ae539fdda0281d7f5ead (HEAD -> logs, origin/master, master)
+Author: Zekirija <memishi.zekirija@studnets.finki.ukim.mk>
+Date:   Wed May 18 13:35:25 2019 +0200
+
+     Inital commit
